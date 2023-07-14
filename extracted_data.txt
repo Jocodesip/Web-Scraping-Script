@@ -1,0 +1,11 @@
+Title: iOLAP Academy FAQ
+Description: iOLAP Academy is a program inspired by young enthusiasts that want to get practical knowledge in the IT industry. 
+Image URL: https://adoptoprod.blob.core.windows.net/careers/490e3518-dcea-4507-b95c-3d9dba402725.png
+Twitter Card: summary_large_image
+Twitter Title: iOLAP Academy FAQ
+Twitter Description: iOLAP Academy is a program inspired by young enthusiasts that want to get practical knowledge in the IT industry. 
+Twitter Image: https://adoptoprod.blob.core.windows.net/careers/490e3518-dcea-4507-b95c-3d9dba402725.png
+OG Title: iOLAP Academy FAQ
+OG URL: None
+OG Image: https://adoptoprod.blob.core.windows.net/careers/490e3518-dcea-4507-b95c-3d9dba402725.png
+OG Description: iOLAP Academy is a program inspired by young enthusiasts that want to get practical knowledge in the IT industry. 
